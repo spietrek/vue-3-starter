@@ -38,6 +38,5 @@
   },
   "css.validate": false,
   "less.validate": false,
-  "scss.validate": false,
-  "vetur.validation.template": false
+  "scss.validate": false
 }
